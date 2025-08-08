@@ -1,8 +1,12 @@
 ### Hi ,ljk743121 is there 👋
-
-- 🔭 I’m currently working on Python, Java, HTML+CSS.
-- 🌱 I’m currently learning Javascript, C++.
-- 🤔 I’m looking for help with Git and Linux.
-- 💬 Ask me about Python.
+![](https://komarev.com/ghpvc/?username=ljk743121&abbreviated=true)
+- 🔭 I’m currently working on Cpp, Nuxt.
+- 🌱 I’m currently learning Cpp.
 - 📫 How to reach me: Email: ljk743121@outlook.com
-- ⚡ Interested in: Web, Arcaea, Leetcode
+
+### Tools
+![My Skills](https://skillicons.dev/icons?i=cpp,anaconda,html,tailwind,vuejs,ts,nuxtjs,vercel,git,github,vscode)
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
